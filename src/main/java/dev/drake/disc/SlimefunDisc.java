@@ -4,8 +4,8 @@ import javax.annotation.Nonnull;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.github.drakescraft_labs.slimefun4.api.SlimefunAddon;
-import com.github.drakescraft_labs.slimefun4.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
+import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
 
 import dev.drake.disc.setup.ItemSetup;
 import dev.drake.disc.setup.SongLoader;
